@@ -1,1 +1,1 @@
-# DevSphere-Assignments
+# DevSphere Assignments Solutions
